@@ -1,0 +1,4 @@
+- Relates post-quantum migration to the verification of security records.
+- Separates the trust decisions for audit histories and AI-assisted response.
+- Prioritizes migration tasks while respecting dependencies.
+- Specifies matched baselines for evaluating combined controls.

@@ -1,0 +1,13 @@
+horizon_years,task_id,security_purpose,confidentiality_years,end_to_end_lead_years,prerequisites,own_margin_years,propagated_margin_years,execution_order
+4,evidence_archive,renewal,0.0,3.5,pki_core,-0.5,-0.5,4
+4,gateway,confidentiality,1.5,1.0,,-1.5,-1.5,5
+4,patch_signing,authentication,0.0,2.5,pki_core,-1.5,-1.5,6
+4,pki_core,authentication,0.0,2.0,vendor_enablement,-2.0,6.0,2
+4,records_vault,confidentiality,7.0,3.0,pki_core,6.0,6.0,3
+4,vendor_enablement,enabler,0.0,1.0,,,6.0,1
+8,evidence_archive,renewal,0.0,3.5,pki_core,-4.5,-4.5,4
+8,gateway,confidentiality,1.5,1.0,,-5.5,-5.5,5
+8,patch_signing,authentication,0.0,2.5,pki_core,-5.5,-5.5,6
+8,pki_core,authentication,0.0,2.0,vendor_enablement,-6.0,2.0,2
+8,records_vault,confidentiality,7.0,3.0,pki_core,2.0,2.0,3
+8,vendor_enablement,enabler,0.0,1.0,,,2.0,1

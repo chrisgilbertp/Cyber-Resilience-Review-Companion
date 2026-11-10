@@ -1,0 +1,14 @@
+Dear Editors of Computer Science Review,
+
+Please consider our manuscript, “Post-quantum migration, verifiable ledgers and AI-assisted cyber defense,” as a Review Article.
+
+The paper examines how security teams can rely on three controls in the same system. Post-quantum cryptography changes which keys and channels can be trusted. Shared records require a verifiable history and timely renewal of their proofs. AI-assisted triage requires evidence that its alerts and proposed responses are useful under operational constraints.
+
+The review builds on surveys of quantum threats to blockchains and of post-quantum implementations published in Computer Science Review. It connects their findings to the verification and authorization steps that link cryptographic migration to incident response. We propose a dependency-aware migration procedure, illustrate it using a reproducible hypothetical inventory, and specify measurements for comparing ledger and learning designs under matched conditions.
+
+Thank you for considering the manuscript.
+
+Chris Gilbert
+Department of Computer Science and Engineering
+William V. S. Tubman University, Harper, Liberia
+cabilimi@tubmanu.edu.lr

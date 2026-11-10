@@ -1,0 +1,29 @@
+digraph CybersecurityArchitecture {
+  graph [rankdir=TB, bgcolor="white", pad=0.13, nodesep=0.30, ranksep=0.45,
+         fontname="Liberation Sans", splines=ortho];
+  node [shape=box, style="rounded,filled", fillcolor="#EAF1F5", color="#274A61",
+        fontname="Liberation Sans", fontsize=12, margin="0.16,0.09", penwidth=1.15];
+  edge [color="#335C6D", arrowsize=0.65, penwidth=1.15];
+
+  infra [label=<<B>1  Infrastructure</B><BR/><FONT POINT-SIZE="10">Endpoints, network sensors and service workloads</FONT>>];
+  crypto [label=<<B>2  Cryptographic protection</B><BR/><FONT POINT-SIZE="10">Authenticated channels, event signatures and key rotation</FONT>>];
+  records [label=<<B>3  Verifiable records</B><BR/><FONT POINT-SIZE="10">Protected payloads, signed checkpoints and history proofs</FONT>>];
+  analysis [label=<<B>4  AI-assisted analysis</B><BR/><FONT POINT-SIZE="10">Verified inputs, versioned scores and proposals</FONT>>];
+  response [label=<<B>5  Governance and response</B><BR/><FONT POINT-SIZE="10">Policy, independent approval and outcome checks</FONT>>];
+
+  node [fillcolor="#FFFFFF", color="#777B82", style="rounded,dashed", fontsize=10];
+  quantum [label="Cryptanalytic adversary\nKey recovery and recorded traffic"];
+  ledger [label="Ledger and source adversary\nFalse input, forks and key compromise"];
+  model [label="Model and input adversary\nEvasion, poisoning and prompt injection"];
+
+  infra -> crypto -> records -> analysis -> response;
+  { rank=same; crypto; quantum }
+  { rank=same; records; ledger }
+  { rank=same; analysis; model }
+  quantum -> crypto [style=dashed, color="#87533C", constraint=false];
+  ledger -> records [style=dashed, color="#87533C", constraint=false];
+  model -> analysis [style=dashed, color="#87533C", constraint=false];
+  crypto -> quantum [style=invis];
+  records -> ledger [style=invis];
+  analysis -> model [style=invis];
+}
