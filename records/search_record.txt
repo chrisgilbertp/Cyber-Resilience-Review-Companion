@@ -1,0 +1,246 @@
+Search record | 10 November 2026 (UTC)
+
+Purpose: identify relevant research, standards, technical reports and profile publications for a critical integrative review. Discovery used targeted scholarly and web queries, with follow-up retrieval of publisher and issuer records. The searches were purposive. No exhaustive database exports or screening denominator was recorded.
+
+Initial scope and method searches
+
+triad
+- systematic review quantum computing blockchain artificial intelligence cybersecurity post quantum security recent review evidence convergence 2025 2026
+- Salah Rehman Nizamuddin Al-Fuqaha blockchain for AI review applications challenges IEEE Access 2019 2890374
+- Fernandez Carames Fraga Lamas Towards post-quantum blockchain review 2968985 Aggarwal quantum attacks Bitcoin Ledger
+- Apruzzese role machine learning cybersecurity 10.1145/3545574 Sommer Paxson outside closed world security
+- ACM Computing Surveys scope submission survey article review literature methodology Q1 Scimago 2025 official ACM
+- Computers & Security Elsevier guide for authors review articles aims scope SJR 2025 Q1 Scimago
+
+quantumStandards
+- NIST FIPS 203 ML-KEM parameter table 1184 1088 FIPS 204 ML-DSA 65 1952 3309 FIPS 205 7856
+- NIST SP 800-227 final recommendations key encapsulation mechanisms 2025 csrc
+- NIST IR 8547 Transition to post-quantum cryptography standards draft final 2026 NIST
+- NIST HQC 2025 selected standardization 2026 FIPS 206 FN DSA status official
+- NIST 8105 Report on Post-Quantum Cryptography Chen Jordan Liu DOI
+- CISA NSA NIST Quantum Readiness Migration to Post-Quantum Cryptography factsheet 2023 inventory cryptographic assets
+- NIST SP 1800-38 Migration to Post-Quantum Cryptography current NCCoE
+- IETF X25519MLKEM768 TLS 1.3 draft status RFC November 2026 key share official IETF
+
+methodAndAssurance
+- Snyder 2019 literature review as research methodology overview guidelines 10.1016 j.jbusres 2019.07.039
+- Whittemore Knafl integrative review updated methodology 2005 DOI 10.1111
+- Grant Booth typology reviews 2009 DOI 10.1111
+- Saltzer Schroeder protection of information computer systems 1975 doi
+- NIST CSF 2.0 CSWP 29 SP 800-207 Zero Trust SP 800-160 volume 2 rev 1 cyber resilient systems 800-61 revision 3 official
+- NIST SP 800-218 SSDF 1.1 NIST SP 800-57 part 1 rev 5 general key management DOI
+- NIST AI RMF 1.0 AI 100-1 NIST AI 600-1 Generative AI profile official NIST AI 100-2e2025
+
+Topical and citation discovery
+
+quantumA
+- Shor polynomial-time algorithms prime factorization discrete logarithms quantum computer SIAM 10.1137/S0097539795293172
+- Grover fast quantum mechanical algorithm database search 237814.237866 Zalka optimal 60.2746
+- Gidney Ekera 2048 bit RSA integers 8 hours 20 million noisy qubits Quantum 5 433 Gidney 2025 less than million arXiv 2505.15917
+- Gouzien Sangouard factoring 2048 177 days 13436 multimode memory 140503
+- Mosca cybersecurity era quantum computers will we be ready 3761723 2018
+- Grassl Langenberg Roetteler Steinwandt applying Grover algorithm AES 29360-8_3 2016
+- Amy Di Matteo Gheorghiu Mosca Parent Schanck quantum preimage SHA2 SHA3 DOI
+- Google Quantum AI quantum error correction below surface code threshold Nature 2025 08449-y
+
+quantumB
+- Regev on lattices learning with errors random linear codes cryptography JACM 1568318.1568324
+- Bos et al CRYSTALS Kyber CCA secure module lattice KEM EuroSP 2018 DOI
+- Ducas CRYSTALS Dilithium digital signatures module lattices TCHES 2018 DOI
+- Bernstein SPHINCS plus signature framework CCS 2019 3363229
+- Castryck Decru efficient key recovery attack on SIDH Eurocrypt 2023 30589-4_5
+- Alkim Ducas Poppelmann Schwabe Post-quantum key exchange a new hope USENIX 2016
+- Paquin Stebila Tamvada Benchmarking post-quantum cryptography in TLS PQCrypto 2020 DOI
+- Sikeridis Kampanakis Devetsikiotis post quantum authentication TLS 1.3 performance study NDSS DOI
+
+quantumC
+- Bennett Brassard Quantum cryptography public key distribution coin tossing Theoretical Computer Science 560 2014 doi
+- Scarani Bechmann Pasquinucci Cerf Dusek Lutkenhaus Peev security practical quantum key distribution 81.1301
+- Pirandola Advances in quantum cryptography Advances in Optics Photonics 12 1012
+- Lydersen Hihn Makarov Hacking commercial quantum cryptography systems tailored bright illumination Nature Photonics DOI
+- Huang Broughton Cotler quantum advantage learning from experiments Science 2022 abn7293
+- Cirillo Esposito Seo benchmarking quantum machine learning methods intrusion detection noisy quantum computers QMI 2026
+- Bowles Ahmed Schuld Better than classical subtle art benchmarking quantum machine learning models 2403.07059 journal 2026
+- IETF RFC 8032 Ed25519 64 byte signature RFC 7748 X25519 32 byte keys RFC 10024 X25519MLKEM768 current
+
+ledgerA
+- Haber Stornetta how to time stamp a digital document 1991 BF00196791
+- Nakamoto Bitcoin peer to peer electronic cash bitcoin.org 2008 whitepaper
+- Garay Kiayias Leonardos bitcoin backbone protocol analysis applications Eurocrypt 2015 DOI 46803
+- Lamport Shostak Pease Byzantine Generals problem 357172.357176
+- Fischer Lynch Paterson impossibility distributed consensus one faulty process 3149.214121 Dwork Lynch Stockmeyer partial synchrony 42282.42283
+- Castro Liskov practical Byzantine fault tolerance OSDI 1999 USENIX
+- Yin Malkhi Reiter Gueta Abraham HotStuff BFT consensus 3331591 PODC
+- Kiayias Russell David Oliynykov Ouroboros provably secure proof of stake blockchain protocol CRYPTO 2017 DOI
+
+ledgerB
+- Croman et al on scaling decentralized blockchains FC 2016 53357-4_8
+- Dinh Wang Chen Liu Ooi Tan BLOCKBENCH framework analyzing private blockchains 3064033
+- Androulaki Hyperledger Fabric distributed operating system permissioned blockchains EuroSys 2018 3190538
+- Gervais Karame Wust Glykantzis Ritzdorf Capkun security performance proof work blockchains CCS 2978341
+- Wüst Gervais do you need a blockchain 00011 2018
+- Bonneau Miller Clark Narayanan Kroll Felten SoK research perspectives challenges Bitcoin cryptocurrencies 2015 DOI
+- Yaga Mell Roby Scarfone NISTIR 8202 blockchain technology overview official
+- Aggarwal Brennen Lee Santha Tomamichel Quantum attacks on Bitcoin how to protect Ledger 127 Kearney Perez Delgado 2021
+
+ledgerC
+- Atzei Bartoletti Cimoli survey attacks Ethereum smart contracts SoK 54455-6_8
+- Luu Chu Olickel Saxena Hobor making smart contracts smarter 2978309
+- Daian et al Flash Boys 2.0 frontrunning transaction reordering consensus instability decentralized exchanges 00040
+- Zhang Cecchetti Croman Juels Shi Town Crier authenticated data feed smart contracts 2978326
+- Laurie Langley Kasper RFC9162 Certificate Transparency Version 2.0 IETF Merkle inclusion consistency proofs
+- RFC 8785 JSON Canonicalization Scheme Rundgren Jordan Erdtman
+- Ben Sasson et al Scalable transparent post-quantum secure computational integrity STARK eprint 2018/046 Groth size pairing based non-interactive arguments 2016 DOI
+- Torres Steichen State art scam demystifying honeypots Ethereum USENIX security 2019
+
+aiA
+- Sommer Paxson Outside the closed world machine learning network intrusion detection 10.1109/SP.2010.25
+- Arp Quiring Pendlebury Dos and Don'ts Machine Learning Computer Security USENIX 2022
+- Pendlebury Pierazzi Jordaney Kinder Cavallaro TESSERACT bias malware USENIX 2019
+- Axelsson base-rate fallacy difficulty intrusion detection 357830.357849
+- Davis Goadrich precision recall ROC curves 1143874 Saito Rehmsmeier precision recall ROC imbalanced 0118432
+- Guo Pleiss Sun Weinberger calibration modern neural networks PMLR ICML 2017
+- Gama Zliobaite Bifet Pechenizkiy Bouchachia survey concept drift adaptation 2523813
+- Hanley Lippman Hand if nothing goes wrong is everything all right zero numerators 1983 doi
+
+aiB
+- Ring Wunderlich Scheuring Landes Hotho survey network intrusion detection datasets computers security 2019 06.005
+- Sharafaldin Lashkari Ghorbani Toward generating new intrusion detection dataset intrusion traffic 2018 0006639801080116
+- Engelen Rimmer Joosen Troubleshooting an Intrusion Detection Dataset CICIDS2017 SPW 2021 DOI
+- Moustafa Slay UNSW NB15 new dataset network intrusion detection 7348942
+- Mirsky Doitsh Elovici Shabtai Kitsune ensemble autoencoders online network intrusion detection NDSS doi
+- Anderson Roth EMBER open dataset training static PE malware ML 1804.04637
+- Apruzzese Laskov Schneider Role of Machine Learning Cybersecurity 3545574 ACM 2023
+- Sculley et al hidden technical debt machine learning systems NIPS 2015 official proceedings
+
+aiC
+- Biggio Corona Maiorca et al Evasion attacks against machine learning at test time ECML 2013 40994-3_25
+- Biggio Nelson Laskov Poisoning attacks against support vector machines ICML 2012 arxiv 1206.6389
+- Carlini Wagner Towards evaluating robustness neural networks 10.1109/SP.2017.49
+- Papernot McDaniel Goodfellow Practical black-box attacks against machine learning 3053009
+- Athalye Carlini Wagner Obfuscated Gradients Give a False Sense of Security PMLR ICML 2018
+- Shokri Stronati Song Shmatikov Membership inference attacks against machine learning models 10.1109/SP.2017.41
+- Tramer Zhang Juels Reiter Ristenpart Stealing Machine Learning Models via Prediction APIs USENIX 2016
+- Carlini Tramer Wallace Extracting Training Data from Large Language Models USENIX 2021
+
+aiD
+- Greshake Abdelnabi Mishra Endres Holz Fritz Not what you've signed up for compromising real world LLM integrated applications indirect prompt injection 3623985
+- Liu Jia Xu Hong Formalizing and Benchmarking Prompt Injection Attacks and Defenses USENIX 2024
+- Mazeika HarmBench standardized evaluation automated red teaming robust refusal ICML PMLR 2024
+- OWASP 2025 Top 10 for LLM Applications prompt injection excessive agency official genai
+- Dwork McSherry Nissim Smith calibrating noise to sensitivity private data analysis TCC 2006 DOI
+- McMahan Moore Ramage Hampson Arcas Communication-efficient learning deep networks decentralized data PMLR 2017
+- Bonawitz Ivanov Kreuter practical secure aggregation privacy-preserving machine learning 3133982
+- Bagdasaryan Veit Hua Estrin Shmatikov How to backdoor federated learning PMLR 2020
+
+integration
+- Gentry Fully Homomorphic Encryption Using Ideal Lattices STOC 2009 1536440
+- Cheon Kim Kim Song Homomorphic encryption arithmetic approximate numbers ASIACRYPT 2017 70694-8_15
+- Gilad-Bachrach Dowlin Laine Lauter Naehrig Wernsing CryptoNets PMLR 2016
+- Torres-Arias Afzali Kuppusamy Curtmola Cappos in-toto end-to-end securing software supply chain USENIX 2019
+- Newman Meyers Torres Arias Sigstore software signing for everybody CCS 2022 3560596
+- IETF RFC9334 Remote Attestation Procedures Architecture RFC9052 COSE RFC8446 TLS 1.3
+- NIST SP800-218 Secure Software Development Framework SSDF 1.1 NIST CSF 2.0 800-61r3 incident response
+- SLSA provenance v1.1 specification supply chain levels software artifacts official
+
+scope
+- ACM Computing Surveys author guidelines survey article surveys tutorials scope 50 pages review official ACM ACM reference format
+- ACM Computing Surveys 0360-0300 2025 SCImago SJR Q1 Computer Science general scimagojr
+- Computers & Security 0167-4048 review articles guide for authors ScienceDirect Elsevier bibliographic
+- Computers & Security 0167-4048 2025 SCImago SJR Q1 computer networks communications information security official
+
+gilbert
+- Chris Gilbert Mercy Abiola Gilbert Investigating the Challenges and Solutions in Cybersecurity using Quantum Computing and Cryptography 291 315 IRJAES
+- Chris Gilbert Gilbert The Role of Quantum Cryptography in Enhancing Cybersecurity 3135 IJRPR PDF
+- Gilbert Applications of Blockchain Technology Enhancing Cybersecurity 555 578 IJLTEMAS 2025 authors doi
+- Gilbert Gilbert AI-Driven Threat Detection in Internet of Things IJRPR34633
+- Gilbert Gilbert Algorithmic Approaches Intrusion Detection Systems Graph Theory IJMRAP V7N10P132Y25
+- Gilbert The Effectiveness of Homomorphic Encryption in Protecting Data Privacy 3253 IJRPR35066
+- Gilbert Unlocking Privacy Blockchain Exploring Zero Knowledge Proofs Secure Multi Party Computation Techniques JETIR 2024 pp
+
+official
+- NIST cybersecurity framework 2.0 CSWP 29 DOI Pascoe Quinn Scarfone 2024
+- NIST SP800-207 Zero Trust Architecture 10.6028 SP800-207 NIST SP800-160 v2 rev1 Ross
+- NIST SP 800-61 Rev 3 incident response recommendations considerations cybersecurity risk management 2025 official
+- NIST AI 100-1 AI Risk Management Framework Tabassi AI 600-1 Generative AI NIST official
+- NIST AI 100-2e2025 Adversarial Machine Learning taxonomy terminology attacks mitigations official 2025
+- CISA NIST NSA Quantum-Readiness Migration to Post-Quantum Cryptography 2023 factsheet official
+- NIST FIPS 203 FIPS 204 FIPS 205 Federal Information Processing Standards 2024 csrc ML DSA SLH DSA
+
+Exact titles and specification records
+
+nist
+- NIST 10.6028 NIST.IR.8547 October 2026 authors Alagic transition post quantum final report official table
+- NIST IR 8105 2016 Chen Jordan Liu Moody Peralta Perlner Smith Tone report post quantum authors
+- NIST SP 800-227 September 2025 authors Barker Chen Kelsey key encapsulation official
+- CISA NSA NIST quantum readiness migration to post quantum cryptography factsheet 2023 cisa gov
+
+tls
+- RFC 10024 RFC editor TLS 1.3 October 2026 authors X25519MLKEM768 security considerations
+- IETF RFC 8446 Rescorla Transport Layer Security Protocol Version 1.3 2018
+- IETF RFC 8032 Josefsson Liusvaara EdDSA 2017 signature 64
+
+qextra
+- "Applying Grover’s Algorithm to AES" Grassl 29360-8_3 pages
+- "Estimating the Cost of Generic Quantum Pre-image Attacks" Amy 69453-5_20 author pages
+- "The SPHINCS+ Signature Framework" 10.1145 authors CCS 2019
+- Hacking commercial quantum cryptography systems tailored bright illumination Lydersen 10.1038 nphoton 2010
+
+qproto
+- "Benchmarking Post-Quantum Cryptography in TLS" Paquin Stebila Tamvada exact DOI Springer
+- "CRYSTALS - Kyber" Bos EuroSP 2018 DOI 00032
+- "An Efficient Key Recovery Attack on SIDH" Castryck Decru 2023 pages DOI
+- "How to factor 2048 bit RSA integers with less than a million noisy qubits" Gidney Quantum journal published DOI
+
+ledgerCore
+- "Consensus in the presence of partial synchrony" Dwork Lynch Stockmeyer DOI 42282.42283
+- "HotStuff: BFT Consensus with Linearity and Responsiveness" Yin DOI 3331591
+- "Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol" DOI 2017 Kiayias
+- "On Scaling Decentralized Blockchains" Croman 53357-4_8
+
+ledgerPerf
+- "BLOCKBENCH" Dinh 3064033 ACM SIGMOD official
+- "The Bitcoin Backbone Protocol: Analysis and Applications" Garay 46803-6_10
+- "Do you Need a Blockchain?" Wust Gervais 00011
+- "On the Security and Performance of Proof of Work Blockchains" Gervais 2978341
+
+ledgerApps
+- "Making Smart Contracts Smarter" Luu 2978309
+- "Flash Boys 2.0" Daian 10.1109/SP40000.2020.00040
+- "Town Crier: An Authenticated Data Feed for Smart Contracts" DOI 2978326
+- "The Art of The Scam" Torres Steichen State USENIX pages 2019
+
+ledgerPq
+- "Vulnerability of blockchain technologies to quantum attacks" Kearney Perez-Delgado 2021 DOI
+- "A Systematic Mapping of Quantum Threats and Defenses for Blockchain" 2026 743 authors date
+- "Blockchain for AI: Review and Open Research Challenges" Salah IEEE Access 7 10127
+- "On the Size of Pairing-based Non-interactive Arguments" Groth Eurocrypt 2016 49896-5_11
+
+mlA
+- "The base-rate fallacy and the difficulty of intrusion detection" Axelsson DOI 357830.357849
+- "The Precision-Recall Plot Is More Informative" Saito Rehmsmeier PLOS 0118432
+- "Troubleshooting an Intrusion Detection Dataset" Engelen DOI 2021
+- "Kitsune: An Ensemble of Autoencoders" Mirsky NDSS DOI
+
+mlB
+- "Evasion attacks against machine learning at test time" Biggio 40994-3_25
+- "Extracting Training Data from Large Language Models" Carlini USENIX sec21 presentation
+- "Not What You've Signed Up For" Greshake 3605764.3623985
+- "Practical Black-Box Attacks against Machine Learning" Papernot doi 3053009
+
+mlC
+- "Practical Secure Aggregation for Privacy-Preserving Machine Learning" 3133982 Bonawitz
+- "Fully homomorphic encryption using ideal lattices" 1536440 Gentry
+- "Sigstore: Software Signing for Everybody" Newman Meyers 3560596 authors pages
+- "The Role of Quantum Cryptography in Enhancing Cybersecurity" Gilbert 3135 ijrpr original journal PDF
+
+candidate
+- site:dl.acm.org/journal/csur author guidelines survey type word page limit ACM Computing Surveys
+- site:scimagojr.com/journalsearch ACM Computing Surveys 03600300 2025 Q1
+- site:scimagojr.com/journalsearch Computers Security 01674048 2025 Q1 computer networks
+- site:sciencedirect.com/journal/computers-and-security/publish/guide-for-authors Computers Security review article type fees
+
+Further checks used the exact document identifier, DOI, title, or technical table on publisher and issuing-organisation pages, including FIPS 203–205, RFC 10024, the final NIST IR 8547, and the published correction to the surface-code paper. The author’s profile was screened as a supplementary source list.
+
+Discovery services: Consensus located the migration literature review by Näther and colleagues. The record was fetched and matched to the IEEE publication. SciSpace was used for discovery at the intersections of migration, log verification and intrusion detection. The Elicit request returned an invalid-argument error. The synthesis used direct scholarly searches and source records. Scite and Paperpal checks were not performed.
+

@@ -1,0 +1,15 @@
+{
+  "operation": "inspect",
+  "scope": "Unicode plain text only; watermark status not determined",
+  "input": "/workspace/scratch/b4a5cea14781/cyber_review_qa/manuscript.md",
+  "output": null,
+  "input_sha256": "20fae346a451041c4fed9eed1eac7b008138725fc63bfd24f7941bd927957a5a",
+  "output_sha256": null,
+  "positions": "Zero-based Unicode code-point indices; first 8 per character",
+  "characters_before": 51329,
+  "characters_after": 51329,
+  "selected_transformations": [],
+  "changes": [],
+  "findings_before": [],
+  "findings_after": []
+}

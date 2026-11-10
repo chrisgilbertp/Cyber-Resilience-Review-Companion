@@ -1,0 +1,8 @@
+Python 3.12.14, Matplotlib 3.10.8, NumPy 2.3.5
+Deterministic calculations. No training or experimental observations.
+Precision at 1%, 0.1%, 0.01% FPR and 0.1% prevalence: 8.2645%, 47.3934%, 90.0090%.
+FPR ceiling for a 2,000-alert budget: 0.110110%.
+X25519MLKEM768 raw client and server key-share bytes together: 2,336.
+Additional unbatched signature bytes across seven replicas: 22,715,000,000.
+ML-DSA-65 signature bytes per replica with 4,096-record batches: 810,705.
+Full 4,096-leaf binary tree sibling-hash payload: 384 bytes.
