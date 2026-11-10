@@ -1,0 +1,18 @@
+# Article  Quantum Computing and Artificial Intelligence in Learning and Device Engineering
+# Journal  Quantum Machine Intelligence
+# Authors  Chris Gilbert and Maxwell Dorgbefu Jnr
+# Chris Gilbert  Department of Computer Science and Engineering, William V. S. Tubman University, Harper, Liberia
+# Maxwell Dorgbefu Jnr  Department of Information Technology Education, University of Skills Training and Entrepreneurial Development (USTED), Kumasi, Ghana
+# Correspondence  Chris Gilbert  cabilimi@tubmanu.edu.lr
+# Bausch et al. (2024), Nature 635:834–840, Fig. 3a and b. https://doi.org/10.1038/s41586-024-08148-8
+distance,decoder,logical_error_pct_per_round,reported_uncertainty_percentage_points,source_panel
+3,AlphaQubit (fine-tuned),2.901,0.023,3a
+3,Tensor network,3.028,0.023,3a
+3,MWPM-BP,3.117,0.024,3a
+3,MWPM-Corr,3.498,0.025,3a
+3,PyMatching,4.015,0.031,3a
+5,AlphaQubit (fine-tuned),2.748,0.015,3b
+5,Tensor network,2.915,0.016,3b
+5,MWPM-BP,3.059,0.014,3b
+5,MWPM-Corr,3.597,0.015,3b
+5,PyMatching,4.356,0.019,3b
