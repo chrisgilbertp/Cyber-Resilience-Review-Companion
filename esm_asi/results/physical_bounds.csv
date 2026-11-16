@@ -1,0 +1,7 @@
+quantity,temperature_K,power_W,mass_kg,value,unit
+Landauer minimum energy,300.0,,,2.87097888508e-21,J per bit erasure
+Ideal irreversible bit erasure rate,300.0,20.0,,6.96626509653e+21,bit erasures per s
+Ideal irreversible bit erasure rate,300.0,1000.0,,3.48313254827e+23,bit erasures per s
+Ideal irreversible bit erasure rate,300.0,1000000.0,,3.48313254827e+26,bit erasures per s
+Ideal irreversible bit erasure rate,300.0,1000000000.0,,3.48313254827e+29,bit erasures per s
+Lloyd ideal quantum rate,,,1.0,5.42556995861e+50,state transformations per s
