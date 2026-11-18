@@ -1,0 +1,3 @@
+quantity,value,notes
+Gallery N=1e6, q=1e-6, P(at least one false candidate),0.632120558829,Eq. (2), independent comparisons
+Alert PPV (prevalence 1/10000, TPR 0.99, FPR 0.001),0.090082,Eq. (4)/(5)
