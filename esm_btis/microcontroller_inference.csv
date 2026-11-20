@@ -1,0 +1,5 @@
+architecture,steps,reported_mj_per_inference,doi,locator
+ANN,,11.01,10.1142/S0129065727500092,Abstract
+SNN,1,2.31,10.1142/S0129065727500092,Abstract
+SNN,3,2.34,10.1142/S0129065727500092,Abstract
+SNN,10,3.88,10.1142/S0129065727500092,Abstract

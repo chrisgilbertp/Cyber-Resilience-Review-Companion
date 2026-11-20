@@ -1,0 +1,4 @@
+scenario,fixed_normalised,state_per_step_normalised,dense_event_per_step_normalised
+Lower per-step state cost,0.10,0.0125,0.24
+Base scenario,0.10,0.025,0.24
+Higher per-step state cost,0.10,0.05,0.24
