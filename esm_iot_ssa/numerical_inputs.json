@@ -1,0 +1,32 @@
+{
+  "nigerian_lab_pilot": {
+    "doi": "10.56557/arjocs/2026/v8i1191",
+    "source_location": "Publisher abstract",
+    "enrolled": 30,
+    "paired_completers": 27,
+    "pre_percent": 20.7,
+    "post_percent": 76.8,
+    "note": "Rounded aggregate means. The six domain values and paired-score dispersion were unavailable for independent extraction."
+  },
+  "building_simulation": {
+    "doi": "10.5281/zenodo.21967026",
+    "source_location": "Zenodo record, Description",
+    "unit": "kWh per square metre per year",
+    "before": 196,
+    "after": 158,
+    "separately_reported_average_savings_percent": 21.06,
+    "note": "The separate savings figure has no directly comparable aggregation in the accessible description."
+  },
+  "surveillance_table": {
+    "doi": "10.5281/zenodo.22728840",
+    "source_location": "Table 1",
+    "detections": 94,
+    "true_events": 100,
+    "printed_detection_percent": 94.3
+  },
+  "buffer_scenario": {
+    "source_location": "Manuscript Eqs. (1) and (2), illustrative assumptions",
+    "sensors": 24,
+    "seconds_between_samples_per_sensor": 60
+  }
+}
